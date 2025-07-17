@@ -1,5 +1,8 @@
 # Better Gamers League - Support Tracker
 
+
+Traditionally, a video game critic or video game journalist’s job is to provide an avenue for gamers to feel like their voices will be heard. As the community moved to social media, the divide between consumers, critics, and creators of content began to change. With the ability to instantly share personal opinions online, the gaming community has evolved into a disharmony of clashing ideas. While video game journalists and public relations try to mitigate this and use it to fuel the industry, over the past few years the community has become self-destructive by igniting controversy over real-life social issues.
+
 A web application for tracking and analyzing supportive gameplay performance. Features a dashboard displaying player stats, leaderboards, and performance metrics.
 
 ## Features
