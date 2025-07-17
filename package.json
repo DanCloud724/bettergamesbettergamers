@@ -1,0 +1,22 @@
+{
+  "name": "better-gamers-league-support-tracker",
+  "version": "1.0.0",
+  "description": "A web application for tracking and analyzing supportive gameplay performance",
+  "main": "dashboard-server.js",
+  "scripts": {
+    "start": "node dashboard-server.js",
+    "dev": "nodemon dashboard-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["league-of-legends", "gaming", "support", "analytics", "dashboard"],
+  "author": "Better Gamers League",
+  "license": "MIT",
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.1",
+    "axios": "^1.10.0",
+    "dotenv": "^17.2.0",
+    "drizzle-orm": "^0.44.3",
+    "drizzle-zod": "^0.8.2",
+    "express": "^5.1.0"
+  }
+}
